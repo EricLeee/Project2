@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Tickets>
+	<tickets>
+		<id>1</id>
+		<state>New</state>
+		<title>Automata simulation won't load</title>
+		<submitter>sesmith5</submitter>
+		<note_list>
+			<note>
+				<note_text>The AutomataSimulation GUI won't load when running as a Java application. The error message states that there is a major.minor error.</note_text>
+				<note_author>sesmith5</note_author>
+			</note>
+		</note_list>
+	</tickets>
+	<tickets>
+		<id>2</id>
+		<state>Assigned</state>
+		<title>Automata simulation won't load</title>
+		<submitter>sesmith5</submitter>
+		<owner>jep</owner>
+		<note_list>
+			<note>
+				<note_text>The AutomataSimulation GUI won't load when running as a Java application. The error message states that there is a major.minor error.</note_text>
+				<note_author>sesmith5</note_author>
+			</note>
+			<note>
+				<note_text>Please look into the major.minor issue with Automata Simulation.</note_text>
+				<note_author>manager</note_author>
+			</note>
+		</note_list>
+	</tickets>
+	<tickets>
+		<id>3</id>
+		<state>Working</state>
+		<title>Automata simulation won't load</title>
+		<submitter>sesmith5</submitter>
+		<owner>jep</owner>
+		<note_list>
+			<note>
+				<note_text>The AutomataSimulation GUI won't load when running as a Java application. The error message states that there is a major.minor error.</note_text>
+				<note_author>sesmith5</note_author>
+			</note>
+			<note>
+				<note_text>Please look into the major.minor issue with Automata Simulation.</note_text>
+				<note_author>manager</note_author>
+			</note>
+			<note>
+				<note_text>Accepting ticket. I will work on investigating the Java versions used to run the application.</note_text>
+				<note_author>jep</note_author>
+			</note>
+		</note_list>
+	</tickets>
+	<tickets>
+		<id>4</id>
+		<state>Feedback</state>
+		<title>Automata simulation won't load</title>
+		<submitter>sesmith5</submitter>
+		<owner>jep</owner>
+		<note_list>
+			<note>
+				<note_text>The AutomataSimulation GUI won't load when running as a Java application. The error message states that there is a major.minor error.</note_text>
+				<note_author>sesmith5</note_author>
+			</note>
+			<note>
+				<note_text>Please look into the major.minor issue with Automata Simulation.</note_text>
+				<note_author>manager</note_author>
+			</note>
+			<note>
+				<note_text>Accepting ticket. I will work on investigating the Java versions used to run the application.</note_text>
+				<note_author>jep</note_author>
+			</note>
+			<note>
+				<note_text>sesmith5: Please provide more information about the version of Java you used to try to run Automata Simulation.</note_text>
+				<note_author>jep</note_author>
+			</note>
+		</note_list>
+	</tickets>
+	<tickets>
+		<id>5</id>
+		<state>Closed</state>
+		<title>Automata simulation won't load</title>
+		<submitter>sesmith5</submitter>
+		<owner>jep</owner>
+		<flag>Resolved</flag>
+		<note_list>
+			<note>
+				<note_text>The AutomataSimulation GUI won't load when running as a Java application. The error message states that there is a major.minor error.</note_text>
+				<note_author>sesmith5</note_author>
+			</note>
+			<note>
+				<note_text>Please look into the major.minor issue with Automata Simulation.</note_text>
+				<note_author>manager</note_author>
+			</note>
+			<note>
+				<note_text>Accepting ticket. I will work on investigating the Java versions used to run the application.</note_text>
+				<note_author>jep</note_author>
+			</note>
+			<note>
+				<note_text>sesmith5: Please provide more information about the version of Java you used to try to run Automata Simulation.</note_text>
+				<note_author>jep</note_author>
+			</note>
+			<note>
+				<note_text>I'm currently using JDK 1.7 update 114</note_text>
+				<note_author>sesmith5</note_author>
+			</note>
+			<note>
+				<note_text>I updated the VM for Automata Simulator to use the latest version of Java 8.</note_text>
+				<note_author>jep</note_author>
+			</note>
+		</note_list>
+	</tickets>
+</Tickets>

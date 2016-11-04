@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Tickets>
+	<tickets>
+		<id>4</id>
+		<state>Feedback</state>
+		<title>Automata simulation won't load</title>
+		<submitter>sesmith5</submitter>
+		<note_list>
+			<note>
+				<note_text>The AutomataSimulation GUI won't load when running as a Java application. The error message states that there is a major.minor error.</note_text>
+				<note_author>sesmith5</note_author>
+			</note>
+			<note>
+				<note_text>Please look into the major.minor issue with Automata Simulation.</note_text>
+				<note_author>manager</note_author>
+			</note>
+			<note>
+				<note_text>Accepting ticket. I will work on investigating the Java versions used to run the application.</note_text>
+				<note_author>jep</note_author>
+			</note>
+			<note>
+				<note_text>sesmith5: Please provide more information about the version of Java you used to try to run Automata Simulation.</note_text>
+				<note_author>jep</note_author>
+			</note>
+		</note_list>
+	</tickets>
+</Tickets>

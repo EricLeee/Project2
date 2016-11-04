@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Tickets>
+	<tickets>
+		<id>1</id>
+		<state>OtherState</state>
+		<title>Automata simulation won't load</title>
+		<submitter>sesmith5</submitter>
+		<note_list>
+			<note>
+				<note_text>The AutomataSimulation GUI won't load when running as a Java application. The error message states that there is a major.minor error.</note_text>
+				<note_author>sesmith5</note_author>
+			</note>
+		</note_list>
+	</tickets>
+</Tickets>
